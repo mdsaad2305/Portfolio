@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+
+.text-fancy {
+  font-family: 'Dancing Script', cursive;
+  font-size: 28px;
+}
+
+.font-fancy {
+  font-family: 'Dancing Script', cursive;
+}
+
+.text-beige {
+    color: #f5f3e6;
+  }
+  
